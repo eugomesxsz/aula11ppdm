@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "nome-do-seu-app",
+    "slug": "nome-do-seu-app",
+    "version": "1.0.0",
+    "scheme": "my-app-scheme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": ["expo-router"],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}

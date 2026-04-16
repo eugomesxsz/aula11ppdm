@@ -1,0 +1,1 @@
+import SignUpView from '@/features/signup/SignUpView';
